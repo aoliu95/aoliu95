@@ -1,6 +1,6 @@
 ### Hello human
 
-<img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/uPic/nyan_Cat.gif" width="400">
+<img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/uPic/nyan_Cat.gif" width="200">
 
 Welcome to my Github Page.
 
