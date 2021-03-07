@@ -1,6 +1,6 @@
 ### Hello human
 
-![](https://github.com/aoliu95/aoliu95.github.io/raw/master/uPic/nyan_Cat.gif =250x)
+![](https://github.com/aoliu95/aoliu95.github.io/raw/master/uPic/nyan_Cat.gif | width=100)
 
 Welcome to my Github Page.
 
